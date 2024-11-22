@@ -1,0 +1,7 @@
+/.idea/
+/.vscode/
+/chipmatrix-api-gateway.iml
+/chipmatrix-auth-center.iml
+/chipmatrix-config-center.iml
+/chipmatrix-monitor.iml
+/chipmatrix-service-registry.iml
